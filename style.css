@@ -137,3 +137,49 @@ footer{
     padding:20px;
 
 }
+
+form{
+
+    width:400px;
+
+    margin:auto;
+
+}
+
+input{
+
+    width:100%;
+
+    padding:10px;
+
+    margin-top:5px;
+
+    margin-bottom:15px;
+
+    box-sizing:border-box;
+
+}
+
+button{
+
+    width:100%;
+
+    padding:12px;
+
+    background-color:#2563eb;
+
+    color:white;
+
+    border:none;
+
+    font-size:16px;
+
+    cursor:pointer;
+
+}
+
+button:hover{
+
+    background-color:#1d4ed8;
+
+}
